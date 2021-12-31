@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWQsNWnL0BvHvpffqUEJCIZZI0+1B36/JWIEeKvomuOFic6PPdeh/wQVtowKEF7wtKT2JhmPL0PsALEPVF2HWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\as\\Desktop\\.net\\Uc2_Tree_hirerachy\\Uc2_Tree_hirerachy.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\as\\Desktop\\.net\\Uc2_Tree_hirerachy\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

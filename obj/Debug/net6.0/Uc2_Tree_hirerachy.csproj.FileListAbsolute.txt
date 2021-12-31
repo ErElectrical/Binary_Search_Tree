@@ -1,0 +1,5 @@
+C:\Users\as\Desktop\.net\Uc2_Tree_hirerachy\obj\Debug\net6.0\Uc2_Tree_hirerachy.csproj.AssemblyReference.cache
+C:\Users\as\Desktop\.net\Uc2_Tree_hirerachy\obj\Debug\net6.0\Uc2_Tree_hirerachy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as\Desktop\.net\Uc2_Tree_hirerachy\obj\Debug\net6.0\Uc2_Tree_hirerachy.AssemblyInfoInputs.cache
+C:\Users\as\Desktop\.net\Uc2_Tree_hirerachy\obj\Debug\net6.0\Uc2_Tree_hirerachy.AssemblyInfo.cs
+C:\Users\as\Desktop\.net\Uc2_Tree_hirerachy\obj\Debug\net6.0\Uc2_Tree_hirerachy.csproj.CoreCompileInputs.cache
